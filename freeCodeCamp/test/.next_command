@@ -6,3 +6,4 @@ ls --color=auto
 more package.json
 clar
 clear
+ls --color=auto
