@@ -13,3 +13,4 @@ ls --color=auto flag
 -l
 -1
 ls --color=auto -l
+cd has
