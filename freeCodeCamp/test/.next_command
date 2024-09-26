@@ -7,3 +7,4 @@ more package.json
 clar
 clear
 ls --color=auto
+cd node_modules
